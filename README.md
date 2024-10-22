@@ -1,4 +1,3 @@
-````markdown
 # 🌟 Dazzle Icons
 
 🚀 **Tired of downloading icons from the Dazzle Icons set or other icon libraries every time?** Say goodbye to the hassle! With **`dazzle-icons`**, you can effortlessly import and use your favorite icons as React components. It's that easy! 🎉
