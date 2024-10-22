@@ -37,15 +37,6 @@ const MyComponent = () => {
 export default MyComponent;
 ```
 
-## 🖼️ Available Icons
-
-This package includes a delightful collection of icons from the Dazzle Icons set. Import them effortlessly and enhance your UI:
-
-- **WavePulse**
-- **Webcam**
-- **Weight**
-- And many more! 🎨
-
 ## 📝 License
 
 This package is licensed under the [MIT License](./LICENSE). Feel free to use and modify as you wish!
