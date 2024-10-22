@@ -1,0 +1,30 @@
+{
+  "name": "dazzle-icons",
+  "author": "Diyor Umarqulov",
+  "version": "1.0.4",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "compile:svg": "npx @svgr/cli --typescript --icon --out-dir src/ icons/*.svg && node scripts/generateIndex.js",
+    "build": "tsc",
+    "prepare": "npm run compile:svg && npm run build"
+  },
+  "dependencies": {
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@svgr/cli": "^5.5.0",
+    "@types/node": "^22.7.8",
+    "@types/react": "^18.3.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "license": "MIT"
+}
