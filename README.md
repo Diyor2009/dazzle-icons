@@ -4,7 +4,7 @@
 
 ## 📦 Installation
 
-You can install the `dazzle-icons` package via npm:
+You can install the 'dazzle-icons' package via npm:
 
 ```bash
 npm install dazzle-icons
