@@ -9,7 +9,6 @@ You can install the `dazzle-icons` package via npm:
 ```bash
 npm install dazzle-icons
 ```
-````
 
 or with Yarn:
 
@@ -63,7 +62,6 @@ A huge shoutout to the creators of the Dazzle Icons set for providing such an am
 
 With `dazzle-icons`, enhancing your project with beautiful icons has never been easier! Happy coding! 💻✨
 
-```
 
 ### Highlights of the Updated README.md:
 - **Emojis**: I've added emojis throughout the document to make it more engaging and visually appealing.
