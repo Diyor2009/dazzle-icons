@@ -53,11 +53,3 @@ A huge shoutout to the creators of the Dazzle Icons set for providing such an am
 
 With `dazzle-icons`, enhancing your project with beautiful icons has never been easier! Happy coding! 💻✨
 ``
-
-### Key Features:
-- **Engaging Introduction**: The opening lines grab attention and clearly explain the package's value.
-- **Clear Installation Instructions**: Both `npm` and `yarn` commands are provided for user convenience.
-- **Concise Usage Example**: The usage section is straightforward, showcasing how to implement the icons effectively.
-- **Community Focus**: The contributing section invites collaboration and encourages users to get involved.
-
-Feel free to use this directly or adjust it as needed! If you have any more requests or changes, let me know!
