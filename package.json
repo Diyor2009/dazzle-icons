@@ -8,6 +8,18 @@
   "files": [
     "src"
   ],
+  "keywords": [
+    "icons",
+    "react-icons",
+    "dazzle",
+    "icons pack",
+    "icons set",
+    "react",
+    "react library",
+    "assets",
+    "helpers",
+    "ui"
+  ],
   "scripts": {
     "compile:svg": "npx @svgr/cli --typescript --icon --out-dir src/ icons/*.svg && node scripts/generateIndex.js",
     "build": "tsc",
