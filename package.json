@@ -21,7 +21,7 @@
     "ui"
   ],
   "scripts": {
-    "compile:svg": "npx @svgr/cli --typescript --icon --out-dir src/ icons/*.svg && node scripts/generateIndex.js",
+    "compile:svg": "npx @svgr/cli --typescript --icon --out-dir src/icons icons/*.svg && node scripts/generate.js",
     "build": "tsc",
     "prepare": "npm run compile:svg && npm run build"
   },
